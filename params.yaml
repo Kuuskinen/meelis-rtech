@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_meelis_vostro_1520__38511: 'http://meelis-Vostro-1520:38511/'}
+rosversion: '1.12.14
+
+  '
+run_id: 9fe7f354-e0ff-11e9-badb-c417fe84ffd2
